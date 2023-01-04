@@ -26,5 +26,5 @@ export default function TireManagementAppBar() {
         </Toolbar>
       </AppBar>
     </Box>
-  );
+  )
 }
